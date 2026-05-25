@@ -6,6 +6,6 @@ THIS SECTION ACCUMULATE AND KEEP TRACK OF MY WORK IN  MICROSOFT CERTIFICATION.
 
 1.  Microsoft Fabric  :   https://magnificent-spike-c96.notion.site/Microsoft-Fabric-1674798fa02480d8a914c8527166dfa5?source=
  
-2.  Microsoft Azure AI Fundamentals  :  https://magnificent-spike-c96.notion.site/Microsoft-Azure-AI-Fundamentals-36a4798fa0248011a388e5c818d288a8?source=copy_link
+2.  Microsoft Azure AI Fundamentals  : https://warm-columnist-d60.notion.site/Microsoft-Azure-AI-Fundamentals-36b1884e22db80f180f3f357eaa145eb?source=copy_link
 
 3.  Honing MSc Data Science  :  https://magnificent-spike-c96.notion.site/Honing-of-MSc-Data-Science-36a4798fa02480309569c71f53b7140f?source=copy_link
